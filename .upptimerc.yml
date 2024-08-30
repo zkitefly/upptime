@@ -155,78 +155,78 @@ status-website:
   userContentBaseUrl: https://mirror.ghproxy.com/raw.githubusercontent.com
   name: Upptime
 
-i18n:
-  activeIncidents: 活跃事件
-  allSystemsOperational: 所有系统正常
-  incidentReport: 事件 #$NUMBER 报告 →
-  activeIncidentSummary: 开启于 $DATE，包含 $POSTS 条帖子
-  incidentTitle: 事件 $NUMBER 详情
-  incidentDetails: 事件详情
-  incidentFixed: 已修复
-  incidentOngoing: 进行中
-  incidentOpenedAt: 开启于
-  incidentClosedAt: 关闭于
-  incidentViewOnGitHub: 在 GitHub 上查看并订阅
-  incidentCommentSummary: 发表于 $DATE，由 $AUTHOR 发布
-  incidentBack: ← 返回所有事件
-  pastIncidents: 过去的事件
-  pastIncidentsResolved: 在 $MINUTES 分钟内解决，包含 $POSTS 条帖子
-  liveStatus: 实时状态
-  overallUptime: 总体正常运行时间: $UPTIME
-  overallUptimeTitle: 总体正常运行时间
-  averageResponseTime: 平均响应时间: $TIMEms
-  averageResponseTimeTitle: 平均响应时间
-  sevelDayResponseTime: 7天响应时间
-  responseTimeMs: 响应时间 (ms)
-  up: 正常
-  down: 停止
-  degraded: 下降
-  ms: 毫秒
-  loading: 加载中
-  navGitHub: GitHub
-  footer: 本页面是[开源的]($REPO)，由[Upptime](https://upptime.js.org)提供支持
-  rateLimitExceededTitle: 超出请求限制
-  rateLimitExceededIntro: 你已超出每小时请求次数限制，需要等待一段时间才能再次访问此网站。你也可以添加一个 GitHub 个人访问令牌以继续使用此网站。
-  rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？
-  rateLimitExceededErrorMeaning: 本网站使用 GitHub API 访问我们网站状态的实时数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 个请求，你已经用完了。
-  rateLimitExceededErrorHowCanFix: 我该如何解决？
-  rateLimitExceededErrorFix: 你可以等待另一个小时，你的 IP 地址的限制将会恢复。或者，你可以添加你的 GitHub 个人访问令牌，这样你每小时将有额外的 5,000 个请求。
-  rateLimitExceededGeneratePAT: 学习如何生成个人访问令牌
-  rateLimitExceededHasSet: 你已经设置了个人访问令牌。
-  rateLimitExceededRemoveToken: 移除令牌
-  rateLimitExceededGitHubPAT: GitHub 个人访问令牌
-  rateLimitExceededCopyPastePAT: 复制并粘贴你的令牌
-  rateLimitExceededSaveToken: 保存令牌
-  errorTitle: 发生错误
-  errorIntro: 尝试获取最新状态详情时发生错误。
-  errorText: 你可以稍后再试。
-  errorHome: 返回主页
-  pastScheduledMaintenance: 过去的计划维护
-  scheduledMaintenance: 计划维护
-  scheduledMaintenanceSummaryStarted: "开始于 $DATE，为期 $DURATION 分钟"
-  scheduledMaintenanceSummaryStarts: "开始于 $DATE，为期 $DURATION 分钟"
-  startedAt: 开始于
-  startsAt: 开始于
-  duration: 持续时间
-  durationMin: $DURATION 分钟
-  incidentCompleted: 完成
-  incidentScheduled: 计划中
-  duration24H: 24小时
-  duration7D: 7天
-  duration30D: 30天
-  duration1Y: 1年
-  durationAll: 所有
-  locale: zh-CN
-  url: URL
-  status: 状态
-  history: 历史
-  responseTime: 响应时间
-  uptime: 正常运行时间
-  liveStatusHtmlComment: <!--实时状态-->
-  allSystemsOperational: 🟩 所有系统正常
-  degradedPerformance: 🟨 性能下降
-  completeOutage: 🟥 完全中断
-  partialOutage: 🟧 部分中断
+# i18n:
+#   activeIncidents: 活跃事件
+#   allSystemsOperational: 所有系统正常
+#   incidentReport: 事件 #$NUMBER 报告 →
+#   activeIncidentSummary: 开启于 $DATE，包含 $POSTS 条帖子
+#   incidentTitle: 事件 $NUMBER 详情
+#   incidentDetails: 事件详情
+#   incidentFixed: 已修复
+#   incidentOngoing: 进行中
+#   incidentOpenedAt: 开启于
+#   incidentClosedAt: 关闭于
+#   incidentViewOnGitHub: 在 GitHub 上查看并订阅
+#   incidentCommentSummary: 发表于 $DATE，由 $AUTHOR 发布
+#   incidentBack: ← 返回所有事件
+#   pastIncidents: 过去的事件
+#   pastIncidentsResolved: 在 $MINUTES 分钟内解决，包含 $POSTS 条帖子
+#   liveStatus: 实时状态
+#   overallUptime: 总体正常运行时间: $UPTIME
+#   overallUptimeTitle: 总体正常运行时间
+#   averageResponseTime: 平均响应时间: $TIMEms
+#   averageResponseTimeTitle: 平均响应时间
+#   sevelDayResponseTime: 7天响应时间
+#   responseTimeMs: 响应时间 (ms)
+#   up: 正常
+#   down: 停止
+#   degraded: 下降
+#   ms: 毫秒
+#   loading: 加载中
+#   navGitHub: GitHub
+#   footer: 本页面是[开源的]($REPO)，由[Upptime](https://upptime.js.org)提供支持
+#   rateLimitExceededTitle: 超出请求限制
+#   rateLimitExceededIntro: 你已超出每小时请求次数限制，需要等待一段时间才能再次访问此网站。你也可以添加一个 GitHub 个人访问令牌以继续使用此网站。
+#   rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？
+#   rateLimitExceededErrorMeaning: 本网站使用 GitHub API 访问我们网站状态的实时数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 个请求，你已经用完了。
+#   rateLimitExceededErrorHowCanFix: 我该如何解决？
+#   rateLimitExceededErrorFix: 你可以等待另一个小时，你的 IP 地址的限制将会恢复。或者，你可以添加你的 GitHub 个人访问令牌，这样你每小时将有额外的 5,000 个请求。
+#   rateLimitExceededGeneratePAT: 学习如何生成个人访问令牌
+#   rateLimitExceededHasSet: 你已经设置了个人访问令牌。
+#   rateLimitExceededRemoveToken: 移除令牌
+#   rateLimitExceededGitHubPAT: GitHub 个人访问令牌
+#   rateLimitExceededCopyPastePAT: 复制并粘贴你的令牌
+#   rateLimitExceededSaveToken: 保存令牌
+#   errorTitle: 发生错误
+#   errorIntro: 尝试获取最新状态详情时发生错误。
+#   errorText: 你可以稍后再试。
+#   errorHome: 返回主页
+#   pastScheduledMaintenance: 过去的计划维护
+#   scheduledMaintenance: 计划维护
+#   scheduledMaintenanceSummaryStarted: "开始于 $DATE，为期 $DURATION 分钟"
+#   scheduledMaintenanceSummaryStarts: "开始于 $DATE，为期 $DURATION 分钟"
+#   startedAt: 开始于
+#   startsAt: 开始于
+#   duration: 持续时间
+#   durationMin: $DURATION 分钟
+#   incidentCompleted: 完成
+#   incidentScheduled: 计划中
+#   duration24H: 24小时
+#   duration7D: 7天
+#   duration30D: 30天
+#   duration1Y: 1年
+#   durationAll: 所有
+#   locale: zh-CN
+#   url: URL
+#   status: 状态
+#   history: 历史
+#   responseTime: 响应时间
+#   uptime: 正常运行时间
+#   liveStatusHtmlComment: <!--实时状态-->
+#   allSystemsOperational: 🟩 所有系统正常
+#   degradedPerformance: 🟨 性能下降
+#   completeOutage: 🟥 完全中断
+#   partialOutage: 🟧 部分中断
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
