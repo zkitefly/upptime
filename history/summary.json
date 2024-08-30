@@ -527,11 +527,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forgepixel.com.ico",
     "slug": "pcl-forgepixel-com-pcl-sub-file-minecraft",
     "status": "up",
-    "uptime": "0.87%",
-    "uptimeDay": "0.87%",
-    "uptimeWeek": "0.87%",
-    "uptimeMonth": "0.87%",
-    "uptimeYear": "0.87%",
+    "uptime": "31.47%",
+    "uptimeDay": "31.47%",
+    "uptimeWeek": "31.47%",
+    "uptimeMonth": "31.47%",
+    "uptimeYear": "31.47%",
     "time": 5169,
     "timeDay": 5169,
     "timeWeek": 5169,
@@ -612,7 +612,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 86
+      "2024-08-30": 124
     }
   },
   {
@@ -656,18 +656,20 @@
     "url": "https://mirror.ghproxy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.ghproxy.com.ico",
     "slug": "git-hub-proxy-ghproxy-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1165,
-    "timeDay": 1165,
-    "timeWeek": 1165,
-    "timeMonth": 1165,
-    "timeYear": 1165,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 1368,
+    "timeDay": 1368,
+    "timeWeek": 1368,
+    "timeMonth": 1368,
+    "timeYear": 1368,
+    "dailyMinutesDown": {
+      "2024-08-30": 0
+    }
   },
   {
     "name": "GitHub Proxy - gh.api.99988866.xyz",
@@ -783,18 +785,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghproxy.org.ico",
     "slug": "git-hub-proxy-ghproxy-org",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 596,
     "timeDay": 596,
     "timeWeek": 596,
     "timeMonth": 596,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2024-08-30": 85
+      "2024-08-30": 124
     }
   },
   {
