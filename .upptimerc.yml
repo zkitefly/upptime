@@ -158,23 +158,23 @@ status-website:
 i18n:
   activeIncidents: 活跃事件
   allSystemsOperational: 所有系统正常
-  incidentReport: "事件 #$NUMBER 报告 →"
-  activeIncidentSummary: "开启于 $DATE，包含 $POSTS 条帖子"
-  incidentTitle: "事件 $NUMBER 详情"
+  incidentReport: 事件 #$NUMBER 报告 →
+  activeIncidentSummary: 开启于 $DATE，包含 $POSTS 条帖子
+  incidentTitle: 事件 $NUMBER 详情
   incidentDetails: 事件详情
   incidentFixed: 已修复
   incidentOngoing: 进行中
   incidentOpenedAt: 开启于
   incidentClosedAt: 关闭于
   incidentViewOnGitHub: 在 GitHub 上查看并订阅
-  incidentCommentSummary: "发表于 $DATE，由 $AUTHOR 发布"
+  incidentCommentSummary: 发表于 $DATE，由 $AUTHOR 发布
   incidentBack: ← 返回所有事件
   pastIncidents: 过去的事件
-  pastIncidentsResolved: "在 $MINUTES 分钟内解决，包含 $POSTS 条帖子"
+  pastIncidentsResolved: 在 $MINUTES 分钟内解决，包含 $POSTS 条帖子
   liveStatus: 实时状态
-  overallUptime: "总体正常运行时间: $UPTIME"
+  overallUptime: 总体正常运行时间: $UPTIME
   overallUptimeTitle: 总体正常运行时间
-  averageResponseTime: "平均响应时间: $TIMEms"
+  averageResponseTime: 平均响应时间: $TIMEms
   averageResponseTimeTitle: 平均响应时间
   sevelDayResponseTime: 7天响应时间
   responseTimeMs: 响应时间 (ms)
@@ -217,32 +217,16 @@ i18n:
   duration1Y: 1年
   durationAll: 所有
   locale: zh-CN
-  url: "URL"
-  status: "状态"
-  history: "历史"
-  responseTime: "响应时间"
-  uptime: "正常运行时间"
-  up: "🟩 正常"
-  degraded: "🟨 性能下降"
-  down: "🟥 停止"
-  responseTimeGraphAlt: "响应时间图表"
-  ms: "毫秒"
-  responseTime: "响应时间"
-  responseTimeDay: "24小时响应时间"
-  responseTimeWeek: "7天响应时间"
-  responseTimeMonth: "30天响应时间"
-  responseTimeYear: "1年响应时间"
-  uptime: "全部正常运行时间"
-  uptimeDay: "24小时正常运行时间"
-  uptimeWeek: "7天正常运行时间"
-  uptimeMonth: "30天正常运行时间"
-  uptimeYear: "1年正常运行时间"
-  liveStatus: "实时状态"
-  liveStatusHtmlComment: "<!--实时状态-->"
-  allSystemsOperational: "🟩 所有系统正常"
-  degradedPerformance: "🟨 性能下降"
-  completeOutage: "🟥 完全中断"
-  partialOutage: "🟧 部分中断"
+  url: URL
+  status: 状态
+  history: 历史
+  responseTime: 响应时间
+  uptime: 正常运行时间
+  liveStatusHtmlComment: <!--实时状态-->
+  allSystemsOperational: 🟩 所有系统正常
+  degradedPerformance: 🟨 性能下降
+  completeOutage: 🟥 完全中断
+  partialOutage: 🟧 部分中断
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
