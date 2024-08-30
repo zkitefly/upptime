@@ -527,11 +527,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forgepixel.com.ico",
     "slug": "pcl-forgepixel-com-pcl-sub-file-minecraft",
     "status": "down",
-    "uptime": "40.86%",
-    "uptimeDay": "40.86%",
-    "uptimeWeek": "40.86%",
-    "uptimeMonth": "40.86%",
-    "uptimeYear": "40.86%",
+    "uptime": "33.23%",
+    "uptimeDay": "33.23%",
+    "uptimeWeek": "33.23%",
+    "uptimeMonth": "33.23%",
+    "uptimeYear": "33.23%",
     "time": 8322,
     "timeDay": 8322,
     "timeWeek": 8322,
@@ -601,18 +601,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/afdian.net.ico",
     "slug": "a-fdian-a-fdian-official-website",
     "status": "down",
-    "uptime": "0.82%",
-    "uptimeDay": "0.82%",
-    "uptimeWeek": "0.82%",
-    "uptimeMonth": "0.82%",
-    "uptimeYear": "0.82%",
+    "uptime": "1.04%",
+    "uptimeDay": "1.04%",
+    "uptimeWeek": "1.04%",
+    "uptimeMonth": "1.04%",
+    "uptimeYear": "1.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 0
+      "2024-08-30": 1
     }
   },
   {
@@ -783,18 +783,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghproxy.org.ico",
     "slug": "git-hub-proxy-ghproxy-org",
     "status": "down",
-    "uptime": "5.73%",
-    "uptimeDay": "5.73%",
-    "uptimeWeek": "5.73%",
-    "uptimeMonth": "5.73%",
-    "uptimeYear": "5.73%",
+    "uptime": "4.01%",
+    "uptimeDay": "4.01%",
+    "uptimeWeek": "4.01%",
+    "uptimeMonth": "4.01%",
+    "uptimeYear": "4.01%",
     "time": 596,
     "timeDay": 596,
     "timeWeek": 596,
     "timeMonth": 596,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2024-08-30": 0
+      "2024-08-30": 1
     }
   },
   {
