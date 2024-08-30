@@ -154,11 +154,7 @@ status-website:
   apiBaseUrl: https://cdn.crashmc.com/api.github.com
   userContentBaseUrl: https://mirror.ghproxy.com/raw.githubusercontent.com
   name: Upptime
-  introTitle: "**Upptime** 是开源正常运行时间监控和状态页面，完全由 GitHub 提供支持。"
-  introMessage: 这是一个示例状态页面，使用来自我们的 GitHub 存储库的**实时**数据 - (https://github.com-upptime-upptime)。无需服务器 - 只需 GitHub Actions、Issues 和 Pages。**免费获取您自己的** - (https://github.com-upptime-upptime)
   navbar:
-    - title: Status
-      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 i18n:
