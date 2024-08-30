@@ -437,11 +437,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.baka.zone.ico",
     "slug": "baka-xl-baka-xl-localization-platform",
     "status": "up",
-    "uptime": "95.56%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "95.56%",
-    "uptimeYear": "95.56%",
+    "uptime": "95.73%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "95.73%",
+    "uptimeMonth": "95.73%",
+    "uptimeYear": "95.73%",
     "time": 1453,
     "timeDay": 1453,
     "timeWeek": 1453,
@@ -529,11 +529,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forgepixel.com.ico",
     "slug": "pcl-forgepixel-com-pcl-sub-file-minecraft",
     "status": "up",
-    "uptime": "89.27%",
-    "uptimeDay": "89.27%",
-    "uptimeWeek": "89.27%",
-    "uptimeMonth": "89.27%",
-    "uptimeYear": "89.27%",
+    "uptime": "89.69%",
+    "uptimeDay": "89.69%",
+    "uptimeWeek": "89.69%",
+    "uptimeMonth": "89.69%",
+    "uptimeYear": "89.69%",
     "time": 2913,
     "timeDay": 2913,
     "timeWeek": 2913,
@@ -614,7 +614,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-30": 793
+      "2024-08-30": 825
     }
   },
   {
@@ -659,11 +659,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.ghproxy.com.ico",
     "slug": "git-hub-proxy-ghproxy-com",
     "status": "up",
-    "uptime": "97.68%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "97.68%",
+    "uptime": "97.77%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "97.77%",
     "time": 1510,
     "timeDay": 1510,
     "timeWeek": 1510,
@@ -679,18 +679,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gh.api.99988866.xyz.ico",
     "slug": "git-hub-proxy-gh-api-99988866-xyz",
     "status": "down",
-    "uptime": "51.37%",
-    "uptimeDay": "51.37%",
-    "uptimeWeek": "51.37%",
-    "uptimeMonth": "51.37%",
-    "uptimeYear": "51.37%",
+    "uptime": "49.36%",
+    "uptimeDay": "49.36%",
+    "uptimeWeek": "49.36%",
+    "uptimeMonth": "49.36%",
+    "uptimeYear": "49.36%",
     "time": 225,
     "timeDay": 225,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-08-30": 386
+      "2024-08-30": 418
     }
   },
   {
@@ -800,7 +800,7 @@
     "timeMonth": 549,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2024-08-30": 793
+      "2024-08-30": 825
     }
   },
   {
@@ -826,19 +826,19 @@
     "url": "https://ghproxy.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/ghproxy.cc.ico",
     "slug": "git-hub-proxy-ghproxy-cc",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 412,
-    "timeDay": 412,
-    "timeWeek": 412,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "status": "up",
+    "uptime": "96.09%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "96.09%",
+    "time": 473,
+    "timeDay": 473,
+    "timeWeek": 473,
+    "timeMonth": 473,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2024-08-30": 0
+      "2024-08-30": 32
     }
   },
   {
@@ -901,18 +901,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gh.ddlc.top.ico",
     "slug": "git-hub-proxy-gh-ddlc-top",
     "status": "down",
-    "uptime": "63.09%",
-    "uptimeDay": "63.09%",
-    "uptimeWeek": "63.09%",
-    "uptimeMonth": "63.09%",
-    "uptimeYear": "63.09%",
+    "uptime": "60.63%",
+    "uptimeDay": "60.63%",
+    "uptimeWeek": "60.63%",
+    "uptimeMonth": "60.63%",
+    "uptimeYear": "60.63%",
     "time": 669,
     "timeDay": 669,
     "timeWeek": 669,
     "timeMonth": 669,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2024-08-30": 293
+      "2024-08-30": 325
     }
   },
   {
@@ -975,11 +975,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gh.jiasu.in.ico",
     "slug": "git-hub-proxy-gh-jiasu-in",
     "status": "up",
-    "uptime": "97.84%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "97.84%",
+    "uptime": "97.92%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.92%",
     "time": 1603,
     "timeDay": 1603,
     "timeWeek": 1603,
