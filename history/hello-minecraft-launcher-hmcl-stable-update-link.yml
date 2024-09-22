@@ -1,7 +1,7 @@
 url: https://hmcl.huangyuhui.net/api/update_link?version=3.5.9&channel=stable
-status: down
-code: 502
-responseTime: 239
-lastUpdated: 2024-09-21T23:06:55.006Z
+status: up
+code: 200
+responseTime: 269
+lastUpdated: 2024-09-22T14:28:33.130Z
 startTime: 2024-08-30T04:44:47.716Z
 generator: Upptime <https://github.com/upptime/upptime>
