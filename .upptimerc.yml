@@ -6,66 +6,144 @@ sites:
   # Hello Minecraft! Launcher
   - name: Hello Minecraft! Launcher - HMCL official website
     url: https://hmcl.huangyuhui.net/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: Hello Minecraft! Launcher - HMCL CI/CD website
     url: https://ci.huangyuhui.net/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: Hello Minecraft! Launcher - HMCL stable update link
     url: https://hmcl.huangyuhui.net/api/update_link?version=3.5.9&channel=stable
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: Hello Minecraft! Launcher - HMCL dev update link
     url: https://hmcl.huangyuhui.net/api/update_link?version=3.5.9&channel=dev
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: Hello Minecraft! Launcher - HMCL Docs
     url: https://docs.hmcl.net/
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # Minecraft Forge
   - name: Minecraft Forge - Forge official download files website
     url: https://files.minecraftforge.net/net/minecraftforge/forge/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: Minecraft Forge - hmcl-dev.github.io/metadata/forge/index.json
     url: https://hmcl-dev.github.io/metadata/forge/index.json
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: Minecraft Forge - zkitefly.github.io/forge-maven-metadata/list.json
     url: https://zkitefly.github.io/forge-maven-metadata/list.json
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # OptiFine
   - name: OptiFine - OptiFine official website
     url: https://www.optifine.net/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: OptiFine - hmcl-dev.github.io/metadata/optifine/index.json
     url: https://hmcl-dev.github.io/metadata/optifine/index.json
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: OptiFine - zkitefly.github.io/optifine-download-list/index.json
     url: https://zkitefly.github.io/optifine-download-list/index.json
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: OptiFine - of-302-v.8mi.edu.pl
     url: https://of-302-v.8mi.edu.pl/file/OptiFine_1.20.4_HD_U_I7.jar
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: OptiFine - of-302-cf.8mi.edu.pl
     url: https://of-302-cf.8mi.edu.pl/file/OptiFine_1.20.4_HD_U_I7.jar
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: OptiFine - of-302v.zkitefly.eu.org
     url: https://of-302v.zkitefly.eu.org/file/OptiFine_1.20.4_HD_U_I7.jar
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: OptiFine - of-302.zkitefly.eu.org
     url: https://of-302.zkitefly.eu.org/file/OptiFine_1.20.4_HD_U_I7.jar
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: OptiFine - of-302v.zkitefly.free.hr
     url: https://of-302v.zkitefly.free.hr/file/OptiFine_1.20.4_HD_U_I7.jar
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: OptiFine - of-302.zkitefly.free.hr
     url: https://of-302.zkitefly.free.hr/file/OptiFine_1.20.4_HD_U_I7.jar
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: OptiFine - of-302.burningtnt.workers.dev
     url: https://of-302.burningtnt.workers.dev/file/OptiFine_1.20.4_HD_U_I7.jar
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # Unlisted versions of Minecraft
   - name: Unlisted versions of Minecraft - zkitefly.github.io/minecraft-unlisted-version-list/version_manifest.json
     url: https://zkitefly.github.io/unlisted-versions-of-minecraft/version_manifest.json
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: Unlisted versions of Minecraft - zkitefly.github.io/unlisted-versions-of-minecraft/files/1_2/1_2.jar
     url: https://zkitefly.github.io/unlisted-versions-of-minecraft/files/1_2/1_2.jar
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: Unlisted versions of Minecraft - raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/version_manifest.json
     url: https://raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/version_manifest.json
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: Unlisted versions of Minecraft - raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/files/1_2/1_2.jar
     url: https://raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/files/1_2/1_2.jar
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # Fold Craft Launcher
   - name: Fold Craft Launcher - Fold Craft Launcher update link in Chinese
     url: http://101.43.66.4:1145/api/getupdate
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # BakaXL
   - name: BakaXL - BakaXL official website
     url: https://www.bakaxl.com/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: BakaXL - BakaXL localization platform
     url: https://translate.baka.zone/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: BakaXL - BakaXL 3.0 CI/CD website
     url: http://jk-insider.bakaxl.com:8888/
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # PCL
   - name: PCL - pcl.mcnews.thestack.top 主页预设：Minecraft 新闻
@@ -75,68 +153,149 @@ sites:
       - 403
   - name: PCL - mfn233/PCL-Mainpage 主页预设：简单主页
     url: https://gitee.com/mfn233/PCL-Mainpage/raw/main/Custom.xaml
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: PCL - pclsub.sodamc.com 主页预设：每日整合包推荐
     url: https://pclsub.sodamc.com/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: PCL - forgepixel.com/pcl_sub_file 主页预设：Minecraft 皮肤推荐
     url: https://forgepixel.com/pcl_sub_file
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # CrashMC
   - name: CrashMC - CrashMC official website
     url: https://crashmc.com/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: CrashMC - CrashMC CDN
     url: https://cdn.crashmc.com/
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # BetaCraft
   - name: BetaCraft - BetaCraft official website
     url: https://betacraft.uk/
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # AFdian
   - name: AFdian - AFdian official website
     url: https://afdian.net/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: AFdian - AFdian mirror website
     url: https://afdian.com/
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # WenShuShu
   - name: WenShuShu - WenShuShu official website
     url: https://www.wenshushu.cn/
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # GitHub Proxy
-  - name: GitHub Proxy - ghproxy.com
-    url: https://mirror.ghproxy.com/
+  - name: GitHub Proxy - ghp.ci
+    url: https://ghp.ci/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - gh.api.99988866.xyz
     url: https://gh.api.99988866.xyz/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - github.zhlh6.cn
     url: https://github.zhlh6.cn/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - gh-proxy.llyke.com
     url: https://gh-proxy.llyke.com/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - ghproxy.net
     url: https://ghproxy.net/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - free.cn.eu.org
     url: https://free.cn.eu.org/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - gh-proxy.com
     url: https://gh-proxy.com/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - ghproxy.org
     url: https://ghproxy.org/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - free.cn.eu.org
     url: https://free.cn.eu.org/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - ghproxy.cc
     url: https://ghproxy.cc/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - gh.sixyin.com
     url: https://gh.sixyin.com/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - gh.6yit.com
     url: https://gh.6yit.com/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - sciproxy.com
     url: https://sciproxy.com/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - gh.ddlc.top
     url: https://gh.ddlc.top/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - ghps.cc
     url: https://ghps.cc/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - slink.ltd
     url: https://slink.ltd/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - github.moeyy.xyz
     url: https://github.moeyy.xyz/
+    expectedStatusCodes:
+      - 200
+      - 0
   - name: GitHub Proxy - gh.jiasu.in
     url: https://gh.jiasu.in/
+    expectedStatusCodes:
+      - 200
+      - 0
 
   # ChatGPT
   - name: ChatGPT - sharedchat.cn
@@ -150,9 +309,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://mirror.ghproxy.com/raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://ghp.ci/raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   apiBaseUrl: https://cdn.crashmc.com/api.github.com
-  userContentBaseUrl: https://mirror.ghproxy.com/raw.githubusercontent.com
+  userContentBaseUrl: https://ghp.ci/raw.githubusercontent.com
   name: Upptime
 
 # i18n:
