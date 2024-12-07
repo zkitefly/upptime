@@ -1,7 +1,7 @@
 url: https://ghp.ci/
-status: up
-code: 200
-responseTime: 1398
-lastUpdated: 2024-12-07T16:41:19.517Z
+status: down
+code: 502
+responseTime: 1318
+lastUpdated: 2024-12-07T17:57:07.894Z
 startTime: 2024-09-28T07:21:59.937Z
 generator: Upptime <https://github.com/upptime/upptime>
