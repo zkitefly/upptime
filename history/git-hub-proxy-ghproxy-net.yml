@@ -1,7 +1,7 @@
 url: https://ghproxy.net/
-status: up
-code: 200
-responseTime: 29296
-lastUpdated: 2024-12-30T08:52:01.652Z
+status: down
+code: 502
+responseTime: 2270
+lastUpdated: 2024-12-30T09:12:05.619Z
 startTime: 2024-08-30T04:46:24.577Z
 generator: Upptime <https://github.com/upptime/upptime>
