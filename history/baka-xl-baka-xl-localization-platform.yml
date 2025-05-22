@@ -1,7 +1,7 @@
 url: https://translate.baka.zone/
-status: up
-code: 200
-responseTime: 2651
-lastUpdated: 2025-05-21T23:09:28.055Z
+status: down
+code: 502
+responseTime: 915
+lastUpdated: 2025-05-22T08:57:48.513Z
 startTime: 2024-08-30T04:45:30.633Z
 generator: Upptime <https://github.com/upptime/upptime>
