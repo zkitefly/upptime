@@ -1,7 +1,7 @@
 url: https://ci.huangyuhui.net/
-status: up
-code: 200
-responseTime: 950
-lastUpdated: 2025-07-12T23:09:51.314Z
+status: down
+code: 502
+responseTime: 899
+lastUpdated: 2025-07-13T04:50:05.516Z
 startTime: 2024-08-30T04:44:45.832Z
 generator: Upptime <https://github.com/upptime/upptime>
