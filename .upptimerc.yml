@@ -38,10 +38,10 @@ sites:
     url: https://of-302v.zkitefly.eu.org/file/OptiFine_1.20.4_HD_U_I7.jar
   - name: OptiFine - of-302.zkitefly.eu.org
     url: https://of-302.zkitefly.eu.org/file/OptiFine_1.20.4_HD_U_I7.jar
-  - name: OptiFine - of-302v.zkitefly.free.hr
-    url: https://of-302v.zkitefly.free.hr/file/OptiFine_1.20.4_HD_U_I7.jar
-  - name: OptiFine - of-302.zkitefly.free.hr
-    url: https://of-302.zkitefly.free.hr/file/OptiFine_1.20.4_HD_U_I7.jar
+  # - name: OptiFine - of-302v.zkitefly.free.hr
+  #   url: https://of-302v.zkitefly.free.hr/file/OptiFine_1.20.4_HD_U_I7.jar
+  # - name: OptiFine - of-302.zkitefly.free.hr
+  #   url: https://of-302.zkitefly.free.hr/file/OptiFine_1.20.4_HD_U_I7.jar
   - name: OptiFine - of-302.burningtnt.workers.dev
     url: https://of-302.burningtnt.workers.dev/file/OptiFine_1.20.4_HD_U_I7.jar
 
@@ -68,11 +68,11 @@ sites:
     url: http://jk-insider.bakaxl.com:8888/
 
   # PCL
-  - name: PCL - pcl.mcnews.thestack.top 主页预设：Minecraft 新闻
-    url: http://pcl.mcnews.thestack.top
-    expectedStatusCodes:
-      - 200
-      - 403
+  # - name: PCL - pcl.mcnews.thestack.top 主页预设：Minecraft 新闻
+  #   url: http://pcl.mcnews.thestack.top
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 403
   - name: PCL - mfn233/PCL-Mainpage 主页预设：简单主页
     url: https://gitee.com/mfn233/PCL-Mainpage/raw/main/Custom.xaml
   - name: PCL - pclsub.sodamc.com 主页预设：每日整合包推荐
@@ -83,16 +83,16 @@ sites:
   # CrashMC
   - name: CrashMC - CrashMC official website
     url: https://crashmc.com/
-  - name: CrashMC - CrashMC CDN
-    url: https://cdn.crashmc.com/
+  # - name: CrashMC - CrashMC CDN
+  #   url: https://cdn.crashmc.com/
 
   # BetaCraft
   - name: BetaCraft - BetaCraft official website
     url: https://betacraft.uk/
 
   # AFdian
-  - name: AFdian - AFdian official website
-    url: https://afdian.net/
+  # - name: AFdian - AFdian official website
+  #   url: https://afdian.net/
   - name: AFdian - AFdian mirror website
     url: https://afdian.com/
 
@@ -100,59 +100,59 @@ sites:
   - name: WenShuShu - WenShuShu official website
     url: https://www.wenshushu.cn/
 
-  # GitHub Proxy
-  - name: GitHub Proxy - ghp.ci
-    url: https://ghp.ci/
-  - name: GitHub Proxy - gh.api.99988866.xyz
-    url: https://gh.api.99988866.xyz/
-  - name: GitHub Proxy - github.zhlh6.cn
-    url: https://github.zhlh6.cn/
-  - name: GitHub Proxy - gh-proxy.llyke.com
-    url: https://gh-proxy.llyke.com/
-  - name: GitHub Proxy - ghproxy.net
-    url: https://ghproxy.net/
-  - name: GitHub Proxy - free.cn.eu.org
-    url: https://free.cn.eu.org/
-  - name: GitHub Proxy - gh-proxy.com
-    url: https://gh-proxy.com/
-  - name: GitHub Proxy - ghproxy.org
-    url: https://ghproxy.org/
-  - name: GitHub Proxy - free.cn.eu.org
-    url: https://free.cn.eu.org/
-  - name: GitHub Proxy - ghproxy.cc
-    url: https://ghproxy.cc/
-  - name: GitHub Proxy - gh.sixyin.com
-    url: https://gh.sixyin.com/
-  - name: GitHub Proxy - gh.6yit.com
-    url: https://gh.6yit.com/
-  - name: GitHub Proxy - sciproxy.com
-    url: https://sciproxy.com/
-  - name: GitHub Proxy - gh.ddlc.top
-    url: https://gh.ddlc.top/
-  - name: GitHub Proxy - ghps.cc
-    url: https://ghps.cc/
-  - name: GitHub Proxy - slink.ltd
-    url: https://slink.ltd/
-  - name: GitHub Proxy - github.moeyy.xyz
-    url: https://github.moeyy.xyz/
-  - name: GitHub Proxy - gh.jiasu.in
-    url: https://gh.jiasu.in/
+  # # GitHub Proxy
+  # # - name: GitHub Proxy - ghp.ci
+  # #   url: https://ghp.ci/
+  # # - name: GitHub Proxy - gh.api.99988866.xyz
+  # #   url: https://gh.api.99988866.xyz/
+  # - name: GitHub Proxy - github.zhlh6.cn
+  #   url: https://github.zhlh6.cn/
+  # - name: GitHub Proxy - gh-proxy.llyke.com
+  #   url: https://gh-proxy.llyke.com/
+  # - name: GitHub Proxy - ghproxy.net
+  #   url: https://ghproxy.net/
+  # - name: GitHub Proxy - free.cn.eu.org
+  #   url: https://free.cn.eu.org/
+  # - name: GitHub Proxy - gh-proxy.com
+  #   url: https://gh-proxy.com/
+  # # - name: GitHub Proxy - ghproxy.org
+  # #   url: https://ghproxy.org/
+  # - name: GitHub Proxy - free.cn.eu.org
+  #   url: https://free.cn.eu.org/
+  # # - name: GitHub Proxy - ghproxy.cc
+  # #   url: https://ghproxy.cc/
+  # - name: GitHub Proxy - gh.sixyin.com
+  #   url: https://gh.sixyin.com/
+  # - name: GitHub Proxy - gh.6yit.com
+  #   url: https://gh.6yit.com/
+  # - name: GitHub Proxy - sciproxy.com
+  #   url: https://sciproxy.com/
+  # - name: GitHub Proxy - gh.ddlc.top
+  #   url: https://gh.ddlc.top/
+  # - name: GitHub Proxy - ghps.cc
+  #   url: https://ghps.cc/
+  # - name: GitHub Proxy - slink.ltd
+  #   url: https://slink.ltd/
+  # # - name: GitHub Proxy - github.moeyy.xyz
+  # #   url: https://github.moeyy.xyz/
+  # - name: GitHub Proxy - gh.jiasu.in
+  #   url: https://gh.jiasu.in/
 
-  # ChatGPT
-  - name: ChatGPT - sharedchat.cn
-    url: https://sharedchat.cn/
-    expectedStatusCodes:
-      - 200
-      - 403
+  # # ChatGPT
+  # - name: ChatGPT - sharedchat.cn
+  #   url: https://sharedchat.cn/
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://ghp.ci/raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  apiBaseUrl: https://cdn.crashmc.com/api.github.com
-  userContentBaseUrl: https://ghp.ci/raw.githubusercontent.com
+  logoUrl: https://cfp.zkitefly.eu.org/raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  apiBaseUrl: https://cfp.zkitefly.eu.org/api.github.com
+  userContentBaseUrl: https://cfp.zkitefly.eu.org/raw.githubusercontent.com
   name: Upptime
 
 # i18n:
