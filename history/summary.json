@@ -880,10 +880,10 @@
     "url": "https://forgepixel.com/pcl_sub_file",
     "icon": "https://icons.duckduckgo.com/ip3/forgepixel.com.ico",
     "slug": "pcl-forgepixel-com-pcl-sub-file-minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "95.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "89.25%",
     "uptimeYear": "95.62%",
     "time": 2290,
@@ -892,6 +892,7 @@
     "timeMonth": 1884,
     "timeYear": 2290,
     "dailyMinutesDown": {
+      "2025-08-05": 1,
       "2025-08-02": 12,
       "2025-07-30": 35,
       "2025-07-27": 25,
@@ -963,8 +964,7 @@
       "2025-03-18": 30,
       "2025-03-17": 29,
       "2025-03-16": 62,
-      "2025-03-15": 12,
-      "2025-03-14": 12
+      "2025-03-15": 12
     }
   },
   {
