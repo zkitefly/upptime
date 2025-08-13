@@ -40,12 +40,12 @@
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.18%",
     "time": 1371,
     "timeDay": 1406,
     "timeWeek": 1309,
-    "timeMonth": 1379,
+    "timeMonth": 1352,
     "timeYear": 1371,
     "dailyMinutesDown": {
       "2025-08-06": 64,
@@ -112,12 +112,12 @@
     "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "98.75%",
     "time": 317,
     "timeDay": 224,
     "timeWeek": 265,
-    "timeMonth": 351,
+    "timeMonth": 352,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2025-08-06": 64,
@@ -857,10 +857,10 @@
     "url": "https://pclsub.sodamc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pclsub.sodamc.com.ico",
     "slug": "pcl-pclsub-sodamc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.52%",
     "time": 1765,
@@ -869,6 +869,7 @@
     "timeMonth": 1428,
     "timeYear": 1765,
     "dailyMinutesDown": {
+      "2025-08-13": 1,
       "2025-07-26": 36,
       "2025-07-13": 11,
       "2025-07-12": 949,
@@ -881,7 +882,7 @@
       "2025-07-04": 583,
       "2025-07-03": 778,
       "2025-07-02": 707,
-      "2025-07-01": 133
+      "2025-07-01": 122
     }
   },
   {
