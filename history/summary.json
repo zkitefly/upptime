@@ -839,7 +839,7 @@
     "uptime": "95.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
-    "uptimeMonth": "91.37%",
+    "uptimeMonth": "91.43%",
     "uptimeYear": "95.64%",
     "time": 2283,
     "timeDay": 2741,
@@ -1070,19 +1070,19 @@
     "url": "https://alist.8mi.tech",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi",
-    "status": "down",
-    "uptime": "94.00%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "94.00%",
-    "uptimeYear": "94.00%",
-    "time": 777,
-    "timeDay": 777,
-    "timeWeek": 777,
-    "timeMonth": 777,
-    "timeYear": 777,
+    "status": "up",
+    "uptime": "90.08%",
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "90.08%",
+    "uptimeMonth": "90.08%",
+    "uptimeYear": "90.08%",
+    "time": 769,
+    "timeDay": 769,
+    "timeWeek": 769,
+    "timeMonth": 769,
+    "timeYear": 769,
     "dailyMinutesDown": {
-      "2025-08-17": 34
+      "2025-08-17": 59
     }
   },
   {
@@ -1102,7 +1102,7 @@
     "timeMonth": 27104,
     "timeYear": 27104,
     "dailyMinutesDown": {
-      "2025-08-17": 601
+      "2025-08-17": 628
     }
   },
   {
@@ -1122,7 +1122,7 @@
     "timeMonth": 6044,
     "timeYear": 6044,
     "dailyMinutesDown": {
-      "2025-08-17": 600
+      "2025-08-17": 628
     }
   }
 ]
