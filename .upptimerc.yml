@@ -50,10 +50,18 @@ sites:
     url: https://zkitefly.github.io/unlisted-versions-of-minecraft/version_manifest.json
   - name: Unlisted versions of Minecraft - zkitefly.github.io/unlisted-versions-of-minecraft/files/1_2/1_2.jar
     url: https://zkitefly.github.io/unlisted-versions-of-minecraft/files/1_2/1_2.jar
-  - name: Unlisted versions of Minecraft - raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/version_manifest.json
-    url: https://raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/version_manifest.json
-  - name: Unlisted versions of Minecraft - raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/files/1_2/1_2.jar
-    url: https://raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/files/1_2/1_2.jar
+  # - name: Unlisted versions of Minecraft - raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/version_manifest.json
+  #   url: https://raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/version_manifest.json
+  # - name: Unlisted versions of Minecraft - raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/files/1_2/1_2.jar
+  #   url: https://raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/files/1_2/1_2.jar
+  - name: Unlisted versions of Minecraft - alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/version_manifest.json
+    url: https://alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/version_manifest.json
+    expectedStatusCodes: 
+      - 302
+  - name: Unlisted versions of Minecraft - alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/files/1_2/1_2.jar
+    url: https://alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/files/1_2/1_2.jar
+    expectedStatusCodes: 
+      - 302
 
   # Fold Craft Launcher
   - name: Fold Craft Launcher - Fold Craft Launcher update link in Chinese
@@ -103,10 +111,6 @@ sites:
   # alist - 8mi
   - name: alist - 8mi
     url: https://alist.8mi.tech
-  - name: alist - 8mi unlisted-versions-of-minecraft
-    url: https://alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/version_manifest.json
-    expectedStatusCodes: 
-      - 302
   - name: alist - 8mi microsoft-jdk-21-windows-x64.msi
     url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi
     expectedStatusCodes: 
