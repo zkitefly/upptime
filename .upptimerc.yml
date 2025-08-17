@@ -30,10 +30,10 @@ sites:
     url: https://hmcl-dev.github.io/metadata/optifine/index.json
   - name: OptiFine - zkitefly.github.io/optifine-download-list/index.json
     url: https://zkitefly.github.io/optifine-download-list/index.json
-  - name: OptiFine - of-302-v.8mi.edu.pl
-    url: https://of-302-v.8mi.edu.pl/file/OptiFine_1.20.4_HD_U_I7.jar
-  - name: OptiFine - of-302-cf.8mi.edu.pl
-    url: https://of-302-cf.8mi.edu.pl/file/OptiFine_1.20.4_HD_U_I7.jar
+  # - name: OptiFine - of-302-v.8mi.edu.pl
+  #   url: https://of-302-v.8mi.edu.pl/file/OptiFine_1.20.4_HD_U_I7.jar
+  # - name: OptiFine - of-302-cf.8mi.edu.pl
+  #   url: https://of-302-cf.8mi.edu.pl/file/OptiFine_1.20.4_HD_U_I7.jar
   - name: OptiFine - of-302v.zkitefly.eu.org
     url: https://of-302v.zkitefly.eu.org/file/OptiFine_1.20.4_HD_U_I7.jar
   - name: OptiFine - of-302.zkitefly.eu.org
@@ -99,6 +99,22 @@ sites:
   # WenShuShu
   - name: WenShuShu - WenShuShu official website
     url: https://www.wenshushu.cn/
+
+  # alist - 8mi
+  - name: alist - 8mi
+    url: https://alist.8mi.tech
+  - name: alist - 8mi unlisted-versions-of-minecraft
+    url: https://alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/version_manifest.json
+    expectedStatusCodes: 
+      - 302
+  - name: alist - 8mi microsoft-jdk-21-windows-x64.msi
+    url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi
+    expectedStatusCodes: 
+      - 302
+  - name: alist - 8mi microsoft-jdk-21-windows-aarch64.msi
+    url: https://aka.ms/download-jdk/microsoft-jdk-21-windows-aarch64.msi
+    expectedStatusCodes: 
+      - 302
 
   # # GitHub Proxy
   # # - name: GitHub Proxy - ghp.ci
