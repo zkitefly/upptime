@@ -454,11 +454,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bakaxl.com.ico",
     "slug": "baka-xl-baka-xl-official-website",
     "status": "up",
-    "uptime": "97.65%",
+    "uptime": "97.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.65%",
+    "uptimeYear": "97.66%",
     "time": 849,
     "timeDay": 1619,
     "timeWeek": 1345,
@@ -839,7 +839,7 @@
     "uptime": "95.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
-    "uptimeMonth": "90.05%",
+    "uptimeMonth": "90.12%",
     "uptimeYear": "95.64%",
     "time": 2283,
     "timeDay": 2741,
@@ -1100,7 +1100,7 @@
     "timeMonth": 27104,
     "timeYear": 27104,
     "dailyMinutesDown": {
-      "2025-08-17": 25
+      "2025-08-17": 55
     }
   },
   {
@@ -1120,7 +1120,7 @@
     "timeMonth": 6044,
     "timeYear": 6044,
     "dailyMinutesDown": {
-      "2025-08-17": 25
+      "2025-08-17": 55
     }
   }
 ]
