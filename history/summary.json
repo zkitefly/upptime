@@ -486,11 +486,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.baka.zone.ico",
     "slug": "baka-xl-baka-xl-localization-platform",
     "status": "up",
-    "uptime": "48.07%",
+    "uptime": "48.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.07%",
+    "uptimeYear": "48.08%",
     "time": 1739,
     "timeDay": 1351,
     "timeWeek": 1556,
@@ -839,7 +839,7 @@
     "uptime": "95.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
-    "uptimeMonth": "90.58%",
+    "uptimeMonth": "90.62%",
     "uptimeYear": "95.64%",
     "time": 2283,
     "timeDay": 2741,
@@ -1070,19 +1070,19 @@
     "url": "https://alist.8mi.tech",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
-    "time": 758,
-    "timeDay": 758,
-    "timeWeek": 758,
-    "timeMonth": 758,
-    "timeYear": 758,
+    "status": "up",
+    "uptime": "92.77%",
+    "uptimeDay": "92.77%",
+    "uptimeWeek": "92.77%",
+    "uptimeMonth": "92.77%",
+    "uptimeYear": "92.77%",
+    "time": 760,
+    "timeDay": 760,
+    "timeWeek": 760,
+    "timeMonth": 760,
+    "timeYear": 760,
     "dailyMinutesDown": {
-      "2025-08-17": 1
+      "2025-08-17": 18
     }
   },
   {
@@ -1102,7 +1102,7 @@
     "timeMonth": 27104,
     "timeYear": 27104,
     "dailyMinutesDown": {
-      "2025-08-17": 255
+      "2025-08-17": 273
     }
   },
   {
@@ -1122,7 +1122,7 @@
     "timeMonth": 6044,
     "timeYear": 6044,
     "dailyMinutesDown": {
-      "2025-08-17": 254
+      "2025-08-17": 273
     }
   }
 ]
