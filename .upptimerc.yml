@@ -110,7 +110,7 @@ sites:
   - name: alist - 8mi microsoft-jdk-21-windows-x64.msi
     url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi
   - name: alist - 8mi microsoft-jdk-21-windows-aarch64.msi
-    url: https://aka.ms/download-jdk/microsoft-jdk-21-windows-aarch64.msi
+    url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-aarch64.msi
 
   # # GitHub Proxy
   # # - name: GitHub Proxy - ghp.ci
@@ -162,9 +162,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://cfp.zkitefly.eu.org/raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  apiBaseUrl: https://cfp.zkitefly.eu.org/api.github.com
-  userContentBaseUrl: https://cfp.zkitefly.eu.org/raw.githubusercontent.com
+  logoUrl: https://cp.zkitefly.eu.org/raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  apiBaseUrl: https://cp.zkitefly.eu.org/api.github.com
+  userContentBaseUrl: https://cp.zkitefly.eu.org/raw.githubusercontent.com
   name: Upptime
 
 # i18n:
