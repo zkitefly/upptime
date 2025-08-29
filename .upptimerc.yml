@@ -56,12 +56,8 @@ sites:
   #   url: https://raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/files/1_2/1_2.jar
   - name: Unlisted versions of Minecraft - alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/version_manifest.json
     url: https://alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/version_manifest.json
-    expectedStatusCodes: 
-      - 302
   - name: Unlisted versions of Minecraft - alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/files/1_2/1_2.jar
     url: https://alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/files/1_2/1_2.jar
-    expectedStatusCodes: 
-      - 302
 
   # Fold Craft Launcher
   - name: Fold Craft Launcher - Fold Craft Launcher update link in Chinese
@@ -113,12 +109,8 @@ sites:
     url: https://alist.8mi.tech
   - name: alist - 8mi microsoft-jdk-21-windows-x64.msi
     url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi
-    expectedStatusCodes: 
-      - 302
   - name: alist - 8mi microsoft-jdk-21-windows-aarch64.msi
     url: https://aka.ms/download-jdk/microsoft-jdk-21-windows-aarch64.msi
-    expectedStatusCodes: 
-      - 302
 
   # # GitHub Proxy
   # # - name: GitHub Proxy - ghp.ci
