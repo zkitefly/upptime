@@ -1,7 +1,7 @@
 url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi
-status: up
-code: 200
-responseTime: 16013
-lastUpdated: 2025-10-04T13:47:40.826Z
+status: down
+code: 403
+responseTime: 239
+lastUpdated: 2025-10-04T15:01:27.204Z
 startTime: 2025-08-17T01:40:47.479Z
 generator: Upptime <https://github.com/upptime/upptime>
