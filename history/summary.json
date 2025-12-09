@@ -529,7 +529,7 @@
     "timeMonth": 17361,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2025-12-09": 661,
+      "2025-12-09": 689,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -1269,19 +1269,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-x64-msi",
-    "status": "up",
-    "uptime": "96.35%",
-    "uptimeDay": "85.76%",
-    "uptimeWeek": "87.19%",
+    "status": "down",
+    "uptime": "96.39%",
+    "uptimeDay": "85.66%",
+    "uptimeWeek": "87.17%",
     "uptimeMonth": "96.48%",
-    "uptimeYear": "96.35%",
-    "time": 10237,
-    "timeDay": 12299,
-    "timeWeek": 13195,
-    "timeMonth": 14835,
-    "timeYear": 10237,
+    "uptimeYear": "96.39%",
+    "time": 10227,
+    "timeDay": 11506,
+    "timeWeek": 12795,
+    "timeMonth": 14638,
+    "timeYear": 10227,
     "dailyMinutesDown": {
-      "2025-12-09": 74,
+      "2025-12-09": 75,
       "2025-12-08": 311,
       "2025-12-07": 120,
       "2025-12-04": 787,
@@ -1318,7 +1318,7 @@
       "2025-10-05": 548,
       "2025-10-04": 477,
       "2025-10-03": 573,
-      "2025-10-02": 119
+      "2025-10-02": 61
     }
   },
   {
@@ -1326,19 +1326,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-aarch64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-aarch64-msi",
-    "status": "up",
-    "uptime": "96.53%",
-    "uptimeDay": "85.62%",
-    "uptimeWeek": "87.27%",
+    "status": "down",
+    "uptime": "96.74%",
+    "uptimeDay": "85.52%",
+    "uptimeWeek": "87.25%",
     "uptimeMonth": "96.19%",
-    "uptimeYear": "96.53%",
-    "time": 8657,
-    "timeDay": 9382,
-    "timeWeek": 10274,
-    "timeMonth": 12129,
-    "timeYear": 8657,
+    "uptimeYear": "96.74%",
+    "time": 8648,
+    "timeDay": 8846,
+    "timeWeek": 9969,
+    "timeMonth": 11967,
+    "timeYear": 8648,
     "dailyMinutesDown": {
-      "2025-12-09": 75,
+      "2025-12-09": 76,
       "2025-12-08": 314,
       "2025-12-07": 109,
       "2025-12-04": 787,
@@ -1373,7 +1373,7 @@
       "2025-10-04": 593,
       "2025-10-03": 654,
       "2025-10-02": 631,
-      "2025-10-01": 402
+      "2025-10-01": 60
     }
   }
 ]
