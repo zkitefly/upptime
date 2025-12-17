@@ -421,7 +421,7 @@
     "uptimeYear": "100.00%",
     "time": 4137,
     "timeDay": 1974,
-    "timeWeek": 1757,
+    "timeWeek": 1731,
     "timeMonth": 1904,
     "timeYear": 4137,
     "dailyMinutesDown": {}
@@ -525,7 +525,7 @@
     "timeMonth": 17361,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2025-12-17": 470,
+      "2025-12-17": 481,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1272,19 +1272,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-x64-msi",
-    "status": "up",
-    "uptime": "97.67%",
-    "uptimeDay": "84.22%",
-    "uptimeWeek": "79.82%",
+    "status": "down",
+    "uptime": "97.68%",
+    "uptimeDay": "84.13%",
+    "uptimeWeek": "79.80%",
     "uptimeMonth": "91.56%",
-    "uptimeYear": "97.67%",
-    "time": 10232,
-    "timeDay": 10739,
-    "timeWeek": 10304,
-    "timeMonth": 11485,
-    "timeYear": 10232,
+    "uptimeYear": "97.68%",
+    "time": 10223,
+    "timeDay": 10040,
+    "timeWeek": 10212,
+    "timeMonth": 11421,
+    "timeYear": 10223,
     "dailyMinutesDown": {
-      "2025-12-17": 75,
+      "2025-12-17": 76,
       "2025-12-16": 283,
       "2025-12-15": 164,
       "2025-12-14": 279,
@@ -1317,7 +1317,7 @@
       "2025-10-20": 20,
       "2025-10-19": 35,
       "2025-10-18": 11,
-      "2025-10-17": 27
+      "2025-10-17": 11
     }
   },
   {
@@ -1325,19 +1325,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-aarch64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-aarch64-msi",
-    "status": "up",
-    "uptime": "97.26%",
-    "uptimeDay": "81.17%",
-    "uptimeWeek": "75.15%",
-    "uptimeMonth": "90.47%",
-    "uptimeYear": "97.26%",
-    "time": 8597,
-    "timeDay": 7859,
-    "timeWeek": 8139,
-    "timeMonth": 9195,
-    "timeYear": 8597,
+    "status": "down",
+    "uptime": "97.28%",
+    "uptimeDay": "81.07%",
+    "uptimeWeek": "75.13%",
+    "uptimeMonth": "90.46%",
+    "uptimeYear": "97.28%",
+    "time": 8589,
+    "timeDay": 7384,
+    "timeWeek": 8061,
+    "timeMonth": 9141,
+    "timeYear": 8589,
     "dailyMinutesDown": {
-      "2025-12-17": 136,
+      "2025-12-17": 137,
       "2025-12-16": 303,
       "2025-12-15": 360,
       "2025-12-14": 375,
@@ -1371,7 +1371,7 @@
       "2025-10-17": 12,
       "2025-10-15": 88,
       "2025-10-13": 11,
-      "2025-10-12": 44
+      "2025-10-12": 20
     }
   }
 ]
