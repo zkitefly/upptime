@@ -421,7 +421,7 @@
     "uptimeYear": "100.00%",
     "time": 4131,
     "timeDay": 1845,
-    "timeWeek": 1731,
+    "timeWeek": 1722,
     "timeMonth": 1896,
     "timeYear": 4131,
     "dailyMinutesDown": {}
@@ -525,7 +525,7 @@
     "timeMonth": 17361,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2025-12-17": 544,
+      "2025-12-17": 580,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1275,12 +1275,12 @@
     "status": "up",
     "uptime": "97.65%",
     "uptimeDay": "79.86%",
-    "uptimeWeek": "79.28%",
+    "uptimeWeek": "79.53%",
     "uptimeMonth": "91.42%",
     "uptimeYear": "97.65%",
     "time": 10230,
     "timeDay": 10523,
-    "timeWeek": 10371,
+    "timeWeek": 10312,
     "timeMonth": 11456,
     "timeYear": 10230,
     "dailyMinutesDown": {
@@ -1325,19 +1325,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-aarch64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-aarch64-msi",
-    "status": "up",
-    "uptime": "97.24%",
-    "uptimeDay": "76.80%",
-    "uptimeWeek": "74.61%",
+    "status": "down",
+    "uptime": "97.25%",
+    "uptimeDay": "76.66%",
+    "uptimeWeek": "74.84%",
     "uptimeMonth": "90.32%",
-    "uptimeYear": "97.24%",
-    "time": 8595,
-    "timeDay": 7840,
-    "timeWeek": 8209,
-    "timeMonth": 9177,
-    "timeYear": 8595,
+    "uptimeYear": "97.25%",
+    "time": 8589,
+    "timeDay": 7526,
+    "timeWeek": 8093,
+    "timeMonth": 9136,
+    "timeYear": 8589,
     "dailyMinutesDown": {
-      "2025-12-17": 199,
+      "2025-12-17": 201,
       "2025-12-16": 303,
       "2025-12-15": 360,
       "2025-12-14": 375,
@@ -1371,7 +1371,7 @@
       "2025-10-17": 12,
       "2025-10-15": 88,
       "2025-10-13": 11,
-      "2025-10-12": 20
+      "2025-10-12": 10
     }
   }
 ]
