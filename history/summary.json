@@ -525,7 +525,7 @@
     "timeMonth": 17361,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2025-12-18": 124,
+      "2025-12-18": 132,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
@@ -1273,18 +1273,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-x64-msi",
-    "status": "up",
-    "uptime": "97.63%",
-    "uptimeDay": "85.43%",
-    "uptimeWeek": "80.19%",
+    "status": "down",
+    "uptime": "97.65%",
+    "uptimeDay": "85.32%",
+    "uptimeWeek": "80.17%",
     "uptimeMonth": "91.25%",
-    "uptimeYear": "97.63%",
-    "time": 10231,
-    "timeDay": 10345,
-    "timeWeek": 10289,
-    "timeMonth": 11421,
-    "timeYear": 10231,
+    "uptimeYear": "97.65%",
+    "time": 10222,
+    "timeDay": 9595,
+    "timeWeek": 10190,
+    "timeMonth": 11358,
+    "timeYear": 10222,
     "dailyMinutesDown": {
+      "2025-12-18": 2,
       "2025-12-17": 210,
       "2025-12-16": 283,
       "2025-12-15": 164,
@@ -1316,7 +1317,7 @@
       "2025-10-23": 11,
       "2025-10-21": 17,
       "2025-10-20": 20,
-      "2025-10-19": 35
+      "2025-10-19": 10
     }
   },
   {
@@ -1324,18 +1325,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-aarch64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-aarch64-msi",
-    "status": "up",
-    "uptime": "97.23%",
-    "uptimeDay": "79.94%",
-    "uptimeWeek": "75.36%",
+    "status": "down",
+    "uptime": "97.26%",
+    "uptimeDay": "79.82%",
+    "uptimeWeek": "75.34%",
     "uptimeMonth": "90.12%",
-    "uptimeYear": "97.23%",
-    "time": 8606,
-    "timeDay": 8893,
-    "timeWeek": 8284,
-    "timeMonth": 9208,
-    "timeYear": 8606,
+    "uptimeYear": "97.26%",
+    "time": 8598,
+    "timeDay": 8352,
+    "timeWeek": 8202,
+    "timeMonth": 9157,
+    "timeYear": 8598,
     "dailyMinutesDown": {
+      "2025-12-18": 2,
       "2025-12-17": 289,
       "2025-12-16": 303,
       "2025-12-15": 360,
@@ -1368,7 +1370,7 @@
       "2025-10-20": 19,
       "2025-10-19": 35,
       "2025-10-17": 12,
-      "2025-10-15": 88
+      "2025-10-15": 20
     }
   }
 ]
