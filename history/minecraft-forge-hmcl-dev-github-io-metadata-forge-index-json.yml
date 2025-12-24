@@ -1,7 +1,7 @@
 url: https://hmcl-dev.github.io/metadata/forge/index.json
-status: down
-code: 503
-responseTime: 79
-lastUpdated: 2025-12-24T15:58:55.898Z
+status: up
+code: 200
+responseTime: 464
+lastUpdated: 2025-12-24T16:35:58.900Z
 startTime: 2024-08-30T04:44:50.631Z
 generator: Upptime <https://github.com/upptime/upptime>
