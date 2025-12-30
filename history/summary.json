@@ -533,7 +533,8 @@
     "timeMonth": 17361,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2025-12-29": 1428,
+      "2025-12-30": 1,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -788,8 +789,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 1440,
-      "2024-12-30": 1440
+      "2024-12-31": 1440
     }
   },
   {
@@ -851,7 +851,7 @@
     "status": "up",
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.65%",
+    "uptimeWeek": "98.78%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "99.45%",
     "time": 3264,
@@ -891,7 +891,7 @@
     "uptime": "97.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.42%",
+    "uptimeMonth": "97.45%",
     "uptimeYear": "96.26%",
     "time": 1626,
     "timeDay": 1059,
@@ -1072,8 +1072,7 @@
     "timeYear": 358,
     "dailyMinutesDown": {
       "2025-11-18": 161,
-      "2025-01-05": 26,
-      "2024-12-30": 14
+      "2025-01-05": 26
     }
   },
   {
@@ -1289,18 +1288,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-x64-msi",
     "status": "down",
-    "uptime": "98.05%",
-    "uptimeDay": "80.08%",
-    "uptimeWeek": "79.56%",
-    "uptimeMonth": "91.35%",
-    "uptimeYear": "98.05%",
+    "uptime": "98.04%",
+    "uptimeDay": "79.16%",
+    "uptimeWeek": "79.43%",
+    "uptimeMonth": "91.32%",
+    "uptimeYear": "98.04%",
     "time": 10195,
     "timeDay": 10055,
     "timeWeek": 9679,
     "timeMonth": 10372,
     "timeYear": 10195,
     "dailyMinutesDown": {
-      "2025-12-29": 287,
+      "2025-12-30": 1,
+      "2025-12-29": 299,
       "2025-12-28": 334,
       "2025-12-27": 317,
       "2025-12-26": 259,
@@ -1321,18 +1321,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-aarch64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-aarch64-msi",
-    "status": "up",
-    "uptime": "97.74%",
-    "uptimeDay": "73.21%",
-    "uptimeWeek": "74.81%",
-    "uptimeMonth": "89.98%",
-    "uptimeYear": "97.74%",
+    "status": "down",
+    "uptime": "97.77%",
+    "uptimeDay": "73.11%",
+    "uptimeWeek": "74.80%",
+    "uptimeMonth": "90.10%",
+    "uptimeYear": "97.77%",
     "time": 8576,
     "timeDay": 10066,
     "timeWeek": 8440,
     "timeMonth": 8539,
     "timeYear": 8576,
     "dailyMinutesDown": {
+      "2025-12-30": 1,
       "2025-12-29": 387,
       "2025-12-28": 366,
       "2025-12-27": 382,
@@ -1344,8 +1345,7 @@
       "2025-12-21": 470,
       "2025-12-20": 382,
       "2025-12-19": 348,
-      "2025-12-18": 394,
-      "2025-12-17": 52
+      "2025-12-18": 394
     }
   }
 ]
