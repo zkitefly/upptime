@@ -533,7 +533,7 @@
     "timeMonth": 17361,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2025-12-30": 1047,
+      "2025-12-30": 1082,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -1288,19 +1288,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-x64-msi",
-    "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "79.12%",
-    "uptimeWeek": "78.92%",
-    "uptimeMonth": "91.11%",
-    "uptimeYear": "98.01%",
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "78.89%",
+    "uptimeWeek": "78.88%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "98.04%",
     "time": 10189,
     "timeDay": 10067,
     "timeWeek": 9692,
     "timeMonth": 10346,
     "timeYear": 10189,
     "dailyMinutesDown": {
-      "2025-12-30": 288,
+      "2025-12-30": 291,
       "2025-12-29": 299,
       "2025-12-28": 334,
       "2025-12-27": 317,
@@ -1313,7 +1313,7 @@
       "2025-12-20": 340,
       "2025-12-19": 249,
       "2025-12-18": 374,
-      "2025-12-17": 135
+      "2025-12-17": 72
     }
   },
   {
@@ -1321,19 +1321,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-aarch64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-aarch64-msi",
-    "status": "up",
-    "uptime": "97.76%",
-    "uptimeDay": "74.44%",
-    "uptimeWeek": "75.15%",
-    "uptimeMonth": "90.02%",
-    "uptimeYear": "97.76%",
+    "status": "down",
+    "uptime": "97.77%",
+    "uptimeDay": "74.31%",
+    "uptimeWeek": "75.13%",
+    "uptimeMonth": "90.07%",
+    "uptimeYear": "97.77%",
     "time": 8573,
     "timeDay": 10584,
     "timeWeek": 8541,
     "timeMonth": 8529,
     "timeYear": 8573,
     "dailyMinutesDown": {
-      "2025-12-30": 290,
+      "2025-12-30": 292,
       "2025-12-29": 387,
       "2025-12-28": 366,
       "2025-12-27": 382,
@@ -1345,7 +1345,7 @@
       "2025-12-21": 470,
       "2025-12-20": 382,
       "2025-12-19": 348,
-      "2025-12-18": 139
+      "2025-12-18": 116
     }
   }
 ]
