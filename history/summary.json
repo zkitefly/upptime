@@ -535,7 +535,7 @@
     "timeMonth": 0,
     "timeYear": 2180,
     "dailyMinutesDown": {
-      "2026-01-04": 147,
+      "2026-01-04": 248,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -1232,11 +1232,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.85%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "97.88%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "97.89%",
     "time": 1327,
     "timeDay": 252,
     "timeWeek": 94,
@@ -1289,18 +1289,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-x64-msi",
-    "status": "up",
-    "uptime": "97.98%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "81.56%",
-    "uptimeMonth": "90.70%",
-    "uptimeYear": "97.98%",
+    "status": "down",
+    "uptime": "97.97%",
+    "uptimeDay": "91.21%",
+    "uptimeWeek": "80.59%",
+    "uptimeMonth": "90.67%",
+    "uptimeYear": "97.97%",
     "time": 10250,
     "timeDay": 18517,
     "timeWeek": 10826,
     "timeMonth": 10487,
     "timeYear": 10250,
     "dailyMinutesDown": {
+      "2026-01-04": 99,
       "2026-01-03": 28,
       "2026-01-02": 44,
       "2026-01-01": 280,
@@ -1315,7 +1316,7 @@
       "2025-12-23": 254,
       "2025-12-22": 133,
       "2025-12-21": 302,
-      "2025-12-20": 340
+      "2025-12-20": 256
     }
   },
   {
@@ -1323,18 +1324,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-aarch64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-aarch64-msi",
-    "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "78.28%",
-    "uptimeMonth": "89.79%",
-    "uptimeYear": "97.78%",
+    "status": "down",
+    "uptime": "97.75%",
+    "uptimeDay": "90.43%",
+    "uptimeWeek": "77.32%",
+    "uptimeMonth": "89.65%",
+    "uptimeYear": "97.75%",
     "time": 8642,
     "timeDay": 19524,
     "timeWeek": 9623,
     "timeMonth": 8713,
     "timeYear": 8642,
     "dailyMinutesDown": {
+      "2026-01-04": 97,
       "2026-01-03": 41,
       "2026-01-02": 40,
       "2026-01-01": 371,
@@ -1348,7 +1350,7 @@
       "2025-12-24": 295,
       "2025-12-23": 344,
       "2025-12-22": 208,
-      "2025-12-21": 288
+      "2025-12-21": 255
     }
   }
 ]
