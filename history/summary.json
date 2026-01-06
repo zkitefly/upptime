@@ -526,7 +526,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.baka.zone.ico",
     "slug": "baka-xl-baka-xl-localization-platform",
     "status": "down",
-    "uptime": "36.43%",
+    "uptime": "36.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -537,7 +537,7 @@
     "timeMonth": 0,
     "timeYear": 2197,
     "dailyMinutesDown": {
-      "2026-01-06": 131,
+      "2026-01-06": 147,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -1293,11 +1293,11 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-x64-msi",
-    "status": "up",
+    "status": "down",
     "uptime": "97.72%",
-    "uptimeDay": "63.20%",
-    "uptimeWeek": "81.19%",
-    "uptimeMonth": "89.34%",
+    "uptimeDay": "63.01%",
+    "uptimeWeek": "81.17%",
+    "uptimeMonth": "89.37%",
     "uptimeYear": "97.72%",
     "time": 10264,
     "timeDay": 11805,
@@ -1305,6 +1305,7 @@
     "timeMonth": 10479,
     "timeYear": 10264,
     "dailyMinutesDown": {
+      "2026-01-06": 3,
       "2026-01-05": 530,
       "2026-01-04": 272,
       "2026-01-03": 28,
@@ -1321,7 +1322,7 @@
       "2025-12-23": 254,
       "2025-12-22": 133,
       "2025-12-21": 302,
-      "2025-12-20": 138
+      "2025-12-20": 119
     }
   },
   {
@@ -1329,18 +1330,19 @@
     "url": "https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-aarch64.msi",
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-aarch64-msi",
-    "status": "up",
-    "uptime": "97.51%",
-    "uptimeDay": "63.27%",
-    "uptimeWeek": "79.13%",
-    "uptimeMonth": "88.36%",
-    "uptimeYear": "97.51%",
+    "status": "down",
+    "uptime": "97.52%",
+    "uptimeDay": "63.18%",
+    "uptimeWeek": "79.12%",
+    "uptimeMonth": "88.43%",
+    "uptimeYear": "97.52%",
     "time": 8662,
     "timeDay": 11372,
     "timeWeek": 10585,
     "timeMonth": 8724,
     "timeYear": 8662,
     "dailyMinutesDown": {
+      "2026-01-06": 1,
       "2026-01-05": 529,
       "2026-01-04": 269,
       "2026-01-03": 41,
@@ -1356,7 +1358,7 @@
       "2025-12-24": 295,
       "2025-12-23": 344,
       "2025-12-22": 208,
-      "2025-12-21": 118
+      "2025-12-21": 83
     }
   }
 ]
