@@ -541,7 +541,7 @@
     "timeMonth": 0,
     "timeYear": 2198,
     "dailyMinutesDown": {
-      "2026-01-10": 902,
+      "2026-01-10": 998,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -892,10 +892,10 @@
     "url": "https://pclsub.sodamc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pclsub.sodamc.com.ico",
     "slug": "pcl-pclsub-sodamc-com",
-    "status": "up",
-    "uptime": "97.25%",
-    "uptimeDay": "96.14%",
-    "uptimeWeek": "99.22%",
+    "status": "down",
+    "uptime": "97.26%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "96.25%",
     "time": 1623,
@@ -904,7 +904,7 @@
     "timeMonth": 1363,
     "timeYear": 1590,
     "dailyMinutesDown": {
-      "2026-01-10": 56,
+      "2026-01-10": 58,
       "2026-01-04": 23,
       "2025-12-30": 52,
       "2025-12-19": 26,
@@ -957,7 +957,7 @@
       "2025-07-07": 494,
       "2025-07-06": 649,
       "2025-07-05": 503,
-      "2025-07-04": 106
+      "2025-07-04": 92
     }
   },
   {
@@ -1303,15 +1303,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-x64-msi",
     "status": "up",
-    "uptime": "97.74%",
+    "uptime": "97.75%",
     "uptimeDay": "97.07%",
     "uptimeWeek": "87.39%",
     "uptimeMonth": "89.13%",
-    "uptimeYear": "97.74%",
+    "uptimeYear": "97.75%",
     "time": 10323,
     "timeDay": 13802,
     "timeWeek": 15142,
-    "timeMonth": 10620,
+    "timeMonth": 10602,
     "timeYear": 10323,
     "dailyMinutesDown": {
       "2026-01-10": 42,
@@ -1351,7 +1351,7 @@
     "time": 8715,
     "timeDay": 12867,
     "timeWeek": 14062,
-    "timeMonth": 8933,
+    "timeMonth": 8911,
     "timeYear": 8715,
     "dailyMinutesDown": {
       "2026-01-10": 12,
