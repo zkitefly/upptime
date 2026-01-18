@@ -539,7 +539,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.baka.zone.ico",
     "slug": "baka-xl-baka-xl-localization-platform",
     "status": "down",
-    "uptime": "35.53%",
+    "uptime": "35.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -550,7 +550,7 @@
     "timeMonth": 20920,
     "timeYear": 2298,
     "dailyMinutesDown": {
-      "2026-01-18": 903,
+      "2026-01-18": 998,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
@@ -901,18 +901,19 @@
     "url": "https://pclsub.sodamc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pclsub.sodamc.com.ico",
     "slug": "pcl-pclsub-sodamc-com",
-    "status": "up",
+    "status": "down",
     "uptime": "97.29%",
-    "uptimeDay": "98.68%",
+    "uptimeDay": "98.57%",
     "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "96.23%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "96.24%",
     "time": 1628,
     "timeDay": 1532,
     "timeWeek": 1445,
     "timeMonth": 1432,
     "timeYear": 1589,
     "dailyMinutesDown": {
+      "2026-01-18": 2,
       "2026-01-17": 19,
       "2026-01-15": 39,
       "2026-01-12": 33,
@@ -969,8 +970,7 @@
       "2025-07-09": 218,
       "2025-07-07": 494,
       "2025-07-06": 649,
-      "2025-07-05": 503,
-      "2025-07-04": 12
+      "2025-07-05": 503
     }
   },
   {
