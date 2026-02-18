@@ -543,7 +543,7 @@
     "timeMonth": 0,
     "timeYear": 2298,
     "dailyMinutesDown": {
-      "2026-02-18": 167,
+      "2026-02-18": 225,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
@@ -897,7 +897,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pclsub.sodamc.com.ico",
     "slug": "pcl-pclsub-sodamc-com",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
@@ -978,18 +978,19 @@
     "url": "https://forgepixel.com/pcl_sub_file",
     "icon": "https://icons.duckduckgo.com/ip3/forgepixel.com.ico",
     "slug": "pcl-forgepixel-com-pcl-sub-file-minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "96.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.66%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "94.82%",
-    "time": 2060,
+    "time": 2061,
     "timeDay": 2330,
     "timeWeek": 1976,
     "timeMonth": 2073,
     "timeYear": 2058,
     "dailyMinutesDown": {
+      "2026-02-18": 2,
       "2026-02-11": 302,
       "2026-02-10": 316,
       "2026-02-06": 81,
@@ -1078,8 +1079,7 @@
       "2025-04-14": 25,
       "2025-04-13": 51,
       "2025-04-12": 34,
-      "2025-04-11": 12,
-      "2025-04-10": 12
+      "2025-04-11": 12
     }
   },
   {
