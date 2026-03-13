@@ -563,7 +563,7 @@
     "timeMonth": 0,
     "timeYear": 2298,
     "dailyMinutesDown": {
-      "2026-03-13": 160,
+      "2026-03-13": 172,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
@@ -1175,10 +1175,10 @@
     "url": "https://afdian.com/",
     "icon": "https://icons.duckduckgo.com/ip3/afdian.com.ico",
     "slug": "a-fdian-a-fdian-mirror-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1180,
@@ -1187,6 +1187,7 @@
     "timeMonth": 988,
     "timeYear": 1174,
     "dailyMinutesDown": {
+      "2026-03-13": 2,
       "2025-11-18": 90,
       "2025-03-14": 12
     }
