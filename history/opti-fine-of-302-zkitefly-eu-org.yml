@@ -1,7 +1,7 @@
 url: https://of-302.zkitefly.eu.org/file/OptiFine_1.20.4_HD_U_I7.jar
-status: up
-code: 200
-responseTime: 1989
-lastUpdated: 2026-03-21T23:13:44.749Z
+status: down
+code: 429
+responseTime: 219
+lastUpdated: 2026-03-22T19:24:16.259Z
 startTime: 2024-08-30T04:45:03.389Z
 generator: Upptime <https://github.com/upptime/upptime>
