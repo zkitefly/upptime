@@ -554,7 +554,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.baka.zone.ico",
     "slug": "baka-xl-baka-xl-localization-platform",
     "status": "down",
-    "uptime": "31.63%",
+    "uptime": "31.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -565,7 +565,8 @@
     "timeMonth": 0,
     "timeYear": 2298,
     "dailyMinutesDown": {
-      "2026-03-21": 1403,
+      "2026-03-22": 171,
+      "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
@@ -820,8 +821,7 @@
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
-      "2025-03-23": 1440,
-      "2025-03-22": 1440
+      "2025-03-23": 1440
     }
   },
   {
@@ -1205,7 +1205,7 @@
     "slug": "wen-shu-shu-wen-shu-shu-official-website",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "92.85%",
+    "uptimeDay": "93.31%",
     "uptimeWeek": "96.55%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.46%",
@@ -1378,11 +1378,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-x64-msi",
     "status": "up",
-    "uptime": "98.20%",
+    "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.51%",
     "uptimeMonth": "98.27%",
-    "uptimeYear": "98.20%",
+    "uptimeYear": "98.21%",
     "time": 10736,
     "timeDay": 14416,
     "timeWeek": 15382,
