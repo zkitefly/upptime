@@ -561,7 +561,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.baka.zone.ico",
     "slug": "baka-xl-baka-xl-localization-platform",
     "status": "down",
-    "uptime": "30.56%",
+    "uptime": "30.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -572,7 +572,8 @@
     "timeMonth": 0,
     "timeYear": 2306,
     "dailyMinutesDown": {
-      "2026-04-10": 1423,
+      "2026-04-11": 170,
+      "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -827,8 +828,7 @@
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
-      "2025-04-12": 1440,
-      "2025-04-11": 1440
+      "2025-04-12": 1440
     }
   },
   {
@@ -1220,7 +1220,7 @@
     "status": "up",
     "uptime": "99.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.79%",
+    "uptimeWeek": "76.64%",
     "uptimeMonth": "91.68%",
     "uptimeYear": "98.86%",
     "time": 1992,
@@ -1464,7 +1464,7 @@
     "status": "up",
     "uptime": "95.18%",
     "uptimeDay": "94.82%",
-    "uptimeWeek": "56.10%",
+    "uptimeWeek": "57.95%",
     "uptimeMonth": "74.55%",
     "uptimeYear": "95.18%",
     "time": 9027,
