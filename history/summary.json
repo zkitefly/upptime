@@ -562,7 +562,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.baka.zone.ico",
     "slug": "baka-xl-baka-xl-localization-platform",
     "status": "down",
-    "uptime": "30.35%",
+    "uptime": "30.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -573,7 +573,7 @@
     "timeMonth": 0,
     "timeYear": 2306,
     "dailyMinutesDown": {
-      "2026-04-15": 10,
+      "2026-04-15": 204,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
