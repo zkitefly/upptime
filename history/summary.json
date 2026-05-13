@@ -550,18 +550,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.baka.zone.ico",
     "slug": "baka-xl-baka-xl-localization-platform",
     "status": "down",
-    "uptime": "28.98%",
+    "uptime": "28.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "29.24%",
+    "uptimeYear": "29.19%",
     "time": 2235,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 11880,
     "timeYear": 2420,
     "dailyMinutesDown": {
-      "2026-05-12": 1427,
+      "2026-05-13": 239,
+      "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
@@ -923,8 +924,7 @@
       "2025-11-04": 480,
       "2025-08-19": 55,
       "2025-05-29": 198,
-      "2025-05-28": 797,
-      "2025-05-13": 12
+      "2025-05-28": 797
     }
   },
   {
@@ -1040,7 +1040,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.41%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "95.16%",
+    "uptimeYear": "95.20%",
     "time": 2045,
     "timeDay": 0,
     "timeWeek": 1973,
@@ -1133,8 +1133,7 @@
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
-      "2025-05-14": 1440,
-      "2025-05-13": 1440
+      "2025-05-14": 1440
     }
   },
   {
@@ -1476,11 +1475,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist.8mi.tech.ico",
     "slug": "alist-8mi-microsoft-jdk-21-windows-aarch64-msi",
     "status": "up",
-    "uptime": "94.78%",
+    "uptime": "94.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.00%",
-    "uptimeYear": "94.78%",
+    "uptimeMonth": "90.57%",
+    "uptimeYear": "94.79%",
     "time": 8960,
     "timeDay": 0,
     "timeWeek": 10907,
