@@ -1,31 +1,244 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: zkitefly # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  # Hello Minecraft! Launcher
+  - name: Hello Minecraft! Launcher - HMCL official website
+    url: https://hmcl.huangyuhui.net/
+  - name: Hello Minecraft! Launcher - HMCL CI/CD website
+    url: https://ci.huangyuhui.net/
+  - name: Hello Minecraft! Launcher - HMCL stable update link
+    url: https://hmcl.huangyuhui.net/api/update_link?version=3.5.9&channel=stable
+  - name: Hello Minecraft! Launcher - HMCL dev update link
+    url: https://hmcl.huangyuhui.net/api/update_link?version=3.5.9&channel=dev
+  - name: Hello Minecraft! Launcher - HMCL Docs
+    url: https://docs.hmcl.net/
+
+  # Minecraft Forge
+  - name: Minecraft Forge - Forge official download files website
+    url: https://files.minecraftforge.net/net/minecraftforge/forge/
+  - name: Minecraft Forge - hmcl-dev.github.io/metadata/forge/index.json
+    url: https://hmcl-dev.github.io/metadata/forge/index.json
+  - name: Minecraft Forge - zkitefly.github.io/forge-maven-metadata/list.json
+    url: https://zkitefly.github.io/forge-maven-metadata/list.json
+
+  # OptiFine
+  - name: OptiFine - OptiFine official website
+    url: https://www.optifine.net/
+  - name: OptiFine - hmcl-dev.github.io/metadata/optifine/index.json
+    url: https://hmcl-dev.github.io/metadata/optifine/index.json
+  - name: OptiFine - zkitefly.github.io/optifine-download-list/index.json
+    url: https://zkitefly.github.io/optifine-download-list/index.json
+  # - name: OptiFine - of-302-v.8mi.edu.pl
+  #   url: https://of-302-v.8mi.edu.pl/file/OptiFine_1.20.4_HD_U_I7.jar
+  # - name: OptiFine - of-302-cf.8mi.edu.pl
+  #   url: https://of-302-cf.8mi.edu.pl/file/OptiFine_1.20.4_HD_U_I7.jar
+  - name: OptiFine - of-302v.zkitefly.eu.org
+    url: https://of-302v.zkitefly.eu.org/file/OptiFine_1.20.4_HD_U_I7.jar
+  - name: OptiFine - of-302.zkitefly.eu.org
+    url: https://of-302.zkitefly.eu.org/file/OptiFine_1.20.4_HD_U_I7.jar
+  # - name: OptiFine - of-302v.zkitefly.free.hr
+  #   url: https://of-302v.zkitefly.free.hr/file/OptiFine_1.20.4_HD_U_I7.jar
+  # - name: OptiFine - of-302.zkitefly.free.hr
+  #   url: https://of-302.zkitefly.free.hr/file/OptiFine_1.20.4_HD_U_I7.jar
+  - name: OptiFine - of-302.burningtnt.workers.dev
+    url: https://of-302.burningtnt.workers.dev/file/OptiFine_1.20.4_HD_U_I7.jar
+
+  # Unlisted versions of Minecraft
+  - name: Unlisted versions of Minecraft - zkitefly.github.io/minecraft-unlisted-version-list/version_manifest.json
+    url: https://zkitefly.github.io/unlisted-versions-of-minecraft/version_manifest.json
+  - name: Unlisted versions of Minecraft - zkitefly.github.io/unlisted-versions-of-minecraft/files/1_2/1_2.jar
+    url: https://zkitefly.github.io/unlisted-versions-of-minecraft/files/1_2/1_2.jar
+  # - name: Unlisted versions of Minecraft - raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/version_manifest.json
+  #   url: https://raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/version_manifest.json
+  # - name: Unlisted versions of Minecraft - raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/files/1_2/1_2.jar
+  #   url: https://raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/files/1_2/1_2.jar
+  - name: Unlisted versions of Minecraft - alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/version_manifest.json
+    url: https://alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/version_manifest.json
+  - name: Unlisted versions of Minecraft - alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/files/1_2/1_2.jar
+    url: https://alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/files/1_2/1_2.jar
+
+  # Fold Craft Launcher
+  - name: Fold Craft Launcher - Fold Craft Launcher update link in Chinese
+    url: http://101.43.66.4:1145/api/getupdate
+
+  # BakaXL
+  - name: BakaXL - BakaXL official website
+    url: https://www.bakaxl.com/
+  - name: BakaXL - BakaXL localization platform
+    url: https://translate.baka.zone/
+  - name: BakaXL - BakaXL 3.0 CI/CD website
+    url: http://jk-insider.bakaxl.com:8888/
+
+  # PCL
+  # - name: PCL - pcl.mcnews.thestack.top 主页预设：Minecraft 新闻
+  #   url: http://pcl.mcnews.thestack.top
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 403
+  - name: PCL - mfn233/PCL-Mainpage 主页预设：简单主页
+    url: https://gitee.com/mfn233/PCL-Mainpage/raw/main/Custom.xaml
+  - name: PCL - pclsub.sodamc.com 主页预设：每日整合包推荐
+    url: https://pclsub.sodamc.com/
+  - name: PCL - forgepixel.com/pcl_sub_file 主页预设：Minecraft 皮肤推荐
+    url: https://forgepixel.com/pcl_sub_file
+
+  # CrashMC
+  - name: CrashMC - CrashMC official website
+    url: https://crashmc.com/
+  # - name: CrashMC - CrashMC CDN
+  #   url: https://cdn.crashmc.com/
+
+  # BetaCraft
+  - name: BetaCraft - BetaCraft official website
+    url: https://betacraft.uk/
+
+  # AFdian
+  # - name: AFdian - AFdian official website
+  #   url: https://afdian.net/
+  - name: AFdian - AFdian mirror website
+    url: https://afdian.com/
+
+  # WenShuShu
+  - name: WenShuShu - WenShuShu official website
+    url: https://www.wenshushu.cn/
+
+  # alist - 8mi
+  - name: alist - 8mi
+    url: https://alist.8mi.tech
+  - name: alist - 8mi microsoft-jdk-21-windows-x64.msi
+    url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi
+  - name: alist - 8mi microsoft-jdk-21-windows-aarch64.msi
+    url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-aarch64.msi
+
+  # # GitHub Proxy
+  # # - name: GitHub Proxy - ghp.ci
+  # #   url: https://ghp.ci/
+  # # - name: GitHub Proxy - gh.api.99988866.xyz
+  # #   url: https://gh.api.99988866.xyz/
+  # - name: GitHub Proxy - github.zhlh6.cn
+  #   url: https://github.zhlh6.cn/
+  # - name: GitHub Proxy - gh-proxy.llyke.com
+  #   url: https://gh-proxy.llyke.com/
+  # - name: GitHub Proxy - ghproxy.net
+  #   url: https://ghproxy.net/
+  # - name: GitHub Proxy - free.cn.eu.org
+  #   url: https://free.cn.eu.org/
+  # - name: GitHub Proxy - gh-proxy.com
+  #   url: https://gh-proxy.com/
+  # # - name: GitHub Proxy - ghproxy.org
+  # #   url: https://ghproxy.org/
+  # - name: GitHub Proxy - free.cn.eu.org
+  #   url: https://free.cn.eu.org/
+  # # - name: GitHub Proxy - ghproxy.cc
+  # #   url: https://ghproxy.cc/
+  # - name: GitHub Proxy - gh.sixyin.com
+  #   url: https://gh.sixyin.com/
+  # - name: GitHub Proxy - gh.6yit.com
+  #   url: https://gh.6yit.com/
+  # - name: GitHub Proxy - sciproxy.com
+  #   url: https://sciproxy.com/
+  # - name: GitHub Proxy - gh.ddlc.top
+  #   url: https://gh.ddlc.top/
+  # - name: GitHub Proxy - ghps.cc
+  #   url: https://ghps.cc/
+  # - name: GitHub Proxy - slink.ltd
+  #   url: https://slink.ltd/
+  # # - name: GitHub Proxy - github.moeyy.xyz
+  # #   url: https://github.moeyy.xyz/
+  # - name: GitHub Proxy - gh.jiasu.in
+  #   url: https://gh.jiasu.in/
+
+  # # ChatGPT
+  # - name: ChatGPT - sharedchat.cn
+  #   url: https://sharedchat.cn/
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
+  logoUrl: https://cp.zkitefly.eu.org/raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  apiBaseUrl: https://cp.zkitefly.eu.org/api.github.com
+  userContentBaseUrl: https://cp.zkitefly.eu.org/raw.githubusercontent.com
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+
+# i18n:
+#   activeIncidents: 活跃事件
+#   allSystemsOperational: 所有系统正常
+#   incidentReport: 事件 #$NUMBER 报告 →
+#   activeIncidentSummary: 开启于 $DATE，包含 $POSTS 条帖子
+#   incidentTitle: 事件 $NUMBER 详情
+#   incidentDetails: 事件详情
+#   incidentFixed: 已修复
+#   incidentOngoing: 进行中
+#   incidentOpenedAt: 开启于
+#   incidentClosedAt: 关闭于
+#   incidentViewOnGitHub: 在 GitHub 上查看并订阅
+#   incidentCommentSummary: 发表于 $DATE，由 $AUTHOR 发布
+#   incidentBack: ← 返回所有事件
+#   pastIncidents: 过去的事件
+#   pastIncidentsResolved: 在 $MINUTES 分钟内解决，包含 $POSTS 条帖子
+#   liveStatus: 实时状态
+#   overallUptime: 总体正常运行时间: $UPTIME
+#   overallUptimeTitle: 总体正常运行时间
+#   averageResponseTime: 平均响应时间: $TIMEms
+#   averageResponseTimeTitle: 平均响应时间
+#   sevelDayResponseTime: 7天响应时间
+#   responseTimeMs: 响应时间 (ms)
+#   up: 正常
+#   down: 停止
+#   degraded: 下降
+#   ms: 毫秒
+#   loading: 加载中
+#   navGitHub: GitHub
+#   footer: 本页面是[开源的]($REPO)，由[Upptime](https://upptime.js.org)提供支持
+#   rateLimitExceededTitle: 超出请求限制
+#   rateLimitExceededIntro: 你已超出每小时请求次数限制，需要等待一段时间才能再次访问此网站。你也可以添加一个 GitHub 个人访问令牌以继续使用此网站。
+#   rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？
+#   rateLimitExceededErrorMeaning: 本网站使用 GitHub API 访问我们网站状态的实时数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 个请求，你已经用完了。
+#   rateLimitExceededErrorHowCanFix: 我该如何解决？
+#   rateLimitExceededErrorFix: 你可以等待另一个小时，你的 IP 地址的限制将会恢复。或者，你可以添加你的 GitHub 个人访问令牌，这样你每小时将有额外的 5,000 个请求。
+#   rateLimitExceededGeneratePAT: 学习如何生成个人访问令牌
+#   rateLimitExceededHasSet: 你已经设置了个人访问令牌。
+#   rateLimitExceededRemoveToken: 移除令牌
+#   rateLimitExceededGitHubPAT: GitHub 个人访问令牌
+#   rateLimitExceededCopyPastePAT: 复制并粘贴你的令牌
+#   rateLimitExceededSaveToken: 保存令牌
+#   errorTitle: 发生错误
+#   errorIntro: 尝试获取最新状态详情时发生错误。
+#   errorText: 你可以稍后再试。
+#   errorHome: 返回主页
+#   pastScheduledMaintenance: 过去的计划维护
+#   scheduledMaintenance: 计划维护
+#   scheduledMaintenanceSummaryStarted: "开始于 $DATE，为期 $DURATION 分钟"
+#   scheduledMaintenanceSummaryStarts: "开始于 $DATE，为期 $DURATION 分钟"
+#   startedAt: 开始于
+#   startsAt: 开始于
+#   duration: 持续时间
+#   durationMin: $DURATION 分钟
+#   incidentCompleted: 完成
+#   incidentScheduled: 计划中
+#   duration24H: 24小时
+#   duration7D: 7天
+#   duration30D: 30天
+#   duration1Y: 1年
+#   durationAll: 所有
+#   locale: zh-CN
+#   url: URL
+#   status: 状态
+#   history: 历史
+#   responseTime: 响应时间
+#   uptime: 正常运行时间
+#   liveStatusHtmlComment: <!--实时状态-->
+#   allSystemsOperational: 🟩 所有系统正常
+#   degradedPerformance: 🟨 性能下降
+#   completeOutage: 🟥 完全中断
+#   partialOutage: 🟧 部分中断
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
