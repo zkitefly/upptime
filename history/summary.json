@@ -383,18 +383,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jk-insider.bakaxl.com.ico",
     "slug": "baka-xl-baka-xl-3-0-ci-cd-website",
     "status": "down",
-    "uptime": "13.96%",
-    "uptimeDay": "13.96%",
-    "uptimeWeek": "13.96%",
-    "uptimeMonth": "13.96%",
-    "uptimeYear": "13.96%",
+    "uptime": "11.41%",
+    "uptimeDay": "11.41%",
+    "uptimeWeek": "11.41%",
+    "uptimeMonth": "11.41%",
+    "uptimeYear": "11.41%",
     "time": 1074,
     "timeDay": 1074,
     "timeWeek": 1074,
     "timeMonth": 1074,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2026-11-11": 1
+      "2026-11-11": 2
     }
   },
   {
