@@ -73,6 +73,12 @@ sites:
   - name: alist - 8mi microsoft-jdk-25-windows-aarch64.msi
     url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-25-windows-aarch64.msi
 
+  # BMCLAPI
+  - name: BMCLAPI - 根地址
+    url: https://bmclapi2.bangbang93.com
+  - name: BMCLAPI - 状态看板
+    url: https://bd.bangbang93.com/pages/dashboard
+
   # # GitHub Proxy
   # # - name: GitHub Proxy - ghp.ci
   # #   url: https://ghp.ci/
@@ -203,4 +209,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
