@@ -130,7 +130,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://cp.zkitefly.eu.org/raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  apiBaseUrl: https://cp.zkitefly.eu.org/api.github.com
+  apiBaseUrl: https://api.github.com
   userContentBaseUrl: https://cp.zkitefly.eu.org/raw.githubusercontent.com
   name: Upptime
 
