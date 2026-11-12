@@ -15,21 +15,7 @@ sites:
   - name: Hello Minecraft! Launcher - HMCL Docs
     url: https://docs.hmcl.net/
 
-  # Minecraft Forge
-  - name: Minecraft Forge - Forge official download files website
-    url: https://files.minecraftforge.net/net/minecraftforge/forge/
-  - name: Minecraft Forge - hmcl-dev.github.io/metadata/forge/index.json
-    url: https://hmcl-dev.github.io/metadata/forge/index.json
-  - name: Minecraft Forge - zkitefly.github.io/forge-maven-metadata/list.json
-    url: https://zkitefly.github.io/forge-maven-metadata/list.json
-
   # OptiFine
-  - name: OptiFine - OptiFine official website
-    url: https://www.optifine.net/
-  - name: OptiFine - hmcl-dev.github.io/metadata/optifine/index.json
-    url: https://hmcl-dev.github.io/metadata/optifine/index.json
-  - name: OptiFine - zkitefly.github.io/optifine-download-list/index.json
-    url: https://zkitefly.github.io/optifine-download-list/index.json
   # - name: OptiFine - of-302-v.8mi.edu.pl
   #   url: https://of-302-v.8mi.edu.pl/file/OptiFine_1.20.4_HD_U_I7.jar
   # - name: OptiFine - of-302-cf.8mi.edu.pl
@@ -46,10 +32,6 @@ sites:
     url: https://of-302.burningtnt.workers.dev/file/OptiFine_1.20.4_HD_U_I7.jar
 
   # Unlisted versions of Minecraft
-  - name: Unlisted versions of Minecraft - zkitefly.github.io/minecraft-unlisted-version-list/version_manifest.json
-    url: https://zkitefly.github.io/unlisted-versions-of-minecraft/version_manifest.json
-  - name: Unlisted versions of Minecraft - zkitefly.github.io/unlisted-versions-of-minecraft/files/1_2/1_2.jar
-    url: https://zkitefly.github.io/unlisted-versions-of-minecraft/files/1_2/1_2.jar
   # - name: Unlisted versions of Minecraft - raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/version_manifest.json
   #   url: https://raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/version_manifest.json
   # - name: Unlisted versions of Minecraft - raw.gitcode.com/zkitefly/unlisted-versions-of-minecraft/raw/main/files/1_2/1_2.jar
@@ -59,34 +41,15 @@ sites:
   - name: Unlisted versions of Minecraft - alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/files/1_2/1_2.jar
     url: https://alist.8mi.tech/d/mirror/unlisted-versions-of-minecraft/Auto/files/1_2/1_2.jar
 
-  # Fold Craft Launcher
-  - name: Fold Craft Launcher - Fold Craft Launcher update link in Chinese
-    url: http://101.43.66.4:1145/api/getupdate
-
   # BakaXL
   - name: BakaXL - BakaXL official website
     url: https://www.bakaxl.com/
   - name: BakaXL - BakaXL localization platform
     url: https://translate.baka.zone/
-  - name: BakaXL - BakaXL 3.0 CI/CD website
-    url: http://jk-insider.bakaxl.com:8888/
-
-  # PCL
-  # - name: PCL - pcl.mcnews.thestack.top 主页预设：Minecraft 新闻
-  #   url: http://pcl.mcnews.thestack.top
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  - name: PCL - mfn233/PCL-Mainpage 主页预设：简单主页
-    url: https://gitee.com/mfn233/PCL-Mainpage/raw/main/Custom.xaml
-  - name: PCL - pclsub.sodamc.com 主页预设：每日整合包推荐
-    url: https://pclsub.sodamc.com/
-  - name: PCL - forgepixel.com/pcl_sub_file 主页预设：Minecraft 皮肤推荐
-    url: https://forgepixel.com/pcl_sub_file
 
   # CrashMC
-  - name: CrashMC - CrashMC official website
-    url: https://crashmc.com/
+  # - name: CrashMC - CrashMC official website
+  #   url: https://crashmc.com/
   # - name: CrashMC - CrashMC CDN
   #   url: https://cdn.crashmc.com/
 
@@ -95,8 +58,8 @@ sites:
     url: https://betacraft.uk/
 
   # AFdian
-  # - name: AFdian - AFdian official website
-  #   url: https://afdian.net/
+  - name: AFdian - AFdian official website
+    url: https://afdian.net/
   - name: AFdian - AFdian mirror website
     url: https://afdian.com/
 
@@ -107,10 +70,10 @@ sites:
   # alist - 8mi
   - name: alist - 8mi
     url: https://alist.8mi.tech
-  - name: alist - 8mi microsoft-jdk-21-windows-x64.msi
-    url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-x64.msi
-  - name: alist - 8mi microsoft-jdk-21-windows-aarch64.msi
-    url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-21-windows-aarch64.msi
+  - name: alist - 8mi microsoft-jdk-25-windows-x64.msi
+    url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-25-windows-x64.msi
+  - name: alist - 8mi microsoft-jdk-25-windows-aarch64.msi
+    url: https://alist.8mi.tech/d/mirror/ms-jdk/Auto/microsoft-jdk-25-windows-aarch64.msi
 
   # # GitHub Proxy
   # # - name: GitHub Proxy - ghp.ci
