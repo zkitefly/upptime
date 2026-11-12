@@ -58,8 +58,6 @@ sites:
     url: https://betacraft.uk/
 
   # AFdian
-  - name: AFdian - AFdian official website
-    url: https://afdian.net/
   - name: AFdian - AFdian mirror website
     url: https://afdian.com/
 
