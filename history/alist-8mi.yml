@@ -1,7 +1,7 @@
 url: https://alist.8mi.tech
-status: up
-code: 200
-responseTime: 2177
-lastUpdated: 2026-11-26T04:45:27.972Z
+status: down
+code: 502
+responseTime: 631
+lastUpdated: 2026-11-26T15:40:00.821Z
 startTime: 2026-11-11T12:45:41.343Z
 generator: Upptime <https://github.com/upptime/upptime>
